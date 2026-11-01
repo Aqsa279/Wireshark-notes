@@ -28,7 +28,7 @@ Wireshark is a free **protocol analyser** and **network analyser**. It captures 
 
 Every website visit, login and file transfer is made of packets. Think of Wireshark as a **microscope** that lets you open each one. You can watch **live traffic** or open a saved **capture file (pcap)** and study it later.
 
-![What is Wireshark](images/01-what-is-wireshark.png)
+![What is Wireshark]wireshark-notes/images/01-what-is-wireshark.png
 
 It helps answer questions like:
 - Which devices are communicating?
