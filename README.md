@@ -38,6 +38,8 @@ It helps answer questions like:
 - What data is being transmitted?
 
 ---
+<img width="562" height="309" alt="Screenshot 2026-10-30 155515" src="https://github.com/user-attachments/assets/959070d7-b03a-4615-941b-e3d4b97547f8" />
+
 
 ## 2. Uses of Wireshark
 - **Network troubleshooting:** find slow responses, dropped packets and retransmissions.
