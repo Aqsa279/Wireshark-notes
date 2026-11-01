@@ -49,7 +49,8 @@ It helps answer questions like:
 - **Performance checks:** find which devices and sites use the most bandwidth.
 - **Free and open source.**
 
-![Uses of Wireshark](images/02-uses-of-wireshark.png)
+<img width="869" height="403" alt="Screenshot 2026-10-31 161733" src="https://github.com/user-attachments/assets/6dfff3ee-9489-46fe-90e9-365c6851fc91" />
+
 
 ---
 
@@ -58,7 +59,7 @@ It helps answer questions like:
 - **SOC analysts:** investigate alerts and check what a suspicious device was doing.
 - **Ethical hackers:** study traffic during authorised tests and lab exercises.
 
-![Who uses Wireshark](images/03-who-uses-wireshark.png)
+<img width="877" height="360" alt="Screenshot 2026-10-31 161820" src="https://github.com/user-attachments/assets/f5094850-eb78-4c87-88af-4a1b4b035440" />
 
 ---
 
@@ -68,7 +69,8 @@ It helps answer questions like:
 3. Run the installer (default options are fine).
 4. Allow **Npcap**, the driver that captures packets on Windows.
 
-![Download and setup](images/04-download-and-setup.png)
+<img width="876" height="400" alt="Screenshot 2026-10-31 161939" src="https://github.com/user-attachments/assets/a04ba060-656d-4450-870a-30f8bad91b1b" />
+
 
 ---
 
@@ -84,7 +86,8 @@ To view and analyse packet contents:
 - Expand each layer in the packet details.
 - Check the raw data in the bytes pane.
 
-![How Wireshark works](images/05-how-wireshark-works.png)
+<img width="874" height="425" alt="Screenshot 2026-10-31 162221" src="https://github.com/user-attachments/assets/4c452117-7123-4962-a956-0b4ae4bb8353" />
+
 
 ---
 
@@ -97,7 +100,8 @@ Wireshark has **three panes**. Know them before you start:
 | 2 | **Packet Details** | The layers of the packet you selected |
 | 3 | **Packet Bytes** | The raw data in hex and text |
 
-![Interface tour](images/06-interface-tour-three-panes.png)
+
+<img width="888" height="414" alt="Screenshot 2026-10-31 162414" src="https://github.com/user-attachments/assets/5a6fba58-c81b-4ffa-a922-2955d03c2f56" />
 
 ---
 
@@ -155,7 +159,8 @@ Even when capturing for a router, the router has a switched (Layer 2) interface,
 | **Change during capture?** | No | Yes, any time |
 | **Example** | `host 192.168.1.5` | `ip.addr == 192.168.1.5` |
 
-![Capture vs display filters](images/07-capture-vs-display-filters.png)
+<img width="869" height="411" alt="Screenshot 2026-10-31 162736" src="https://github.com/user-attachments/assets/edad8893-75a8-42c1-ae16-8009eab600de" />
+
 
 ---
 
